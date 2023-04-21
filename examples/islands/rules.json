@@ -1,0 +1,145 @@
+[
+  {
+    "tileName": "boat.png",
+    "tilesUp": "WWW",
+    "tilesRight": "WWW",
+    "tilesLeft": "WWW",
+    "tilesDown": "WWW",
+    "shouldBeRotated": false
+  },
+  {
+    "tileName": "water.png",
+    "tilesUp": "WWW",
+    "tilesRight": "WWW",
+    "tilesLeft": "WWW",
+    "tilesDown": "WWW",
+    "shouldBeRotated": false
+  },
+  {
+    "tileName": "ground.png",
+    "tilesUp": "GGG",
+    "tilesRight": "GGG",
+    "tilesLeft": "GGG",
+    "tilesDown": "GGG",
+    "weight": 10,
+    "shouldBeRotated": false
+  },
+  {
+    "tileName": "house.png",
+    "tilesUp": "GGG",
+    "tilesRight": "GGG",
+    "tilesLeft": "GGG",
+    "tilesDown": "GGG",
+    "weight": 3,
+    "shouldBeRotated": false
+  },
+  {
+    "tileName": "trees.png",
+    "tilesUp": "GGG",
+    "tilesRight": "GGG",
+    "tilesLeft": "GGG",
+    "tilesDown": "GGG",
+    "weight": 5,
+    "shouldBeRotated": false
+  },
+  {
+    "tileName": "goundGRightBot.png",
+    "tilesUp": "GWW",
+    "tilesRight": "WWG",
+    "tilesLeft": "GGG",
+    "tilesDown": "GGG",
+    "shouldBeRotated": false
+  },
+  {
+    "tileName": "groundBorderLeftBot.png",
+    "tilesUp": "WWW",
+    "tilesRight": "WWW",
+    "tilesLeft": "WWG",
+    "tilesDown": "GWW",
+    "shouldBeRotated": false
+  },
+  {
+    "tileName": "groundBorderLeftTop.png",
+    "tilesUp": "GWW",
+    "tilesRight": "WWW",
+    "tilesLeft": "GWW",
+    "tilesDown": "WWW",
+    "shouldBeRotated": false
+  },
+  {
+    "tileName": "groundBorderRightBot.png",
+    "tilesUp": "WWW",
+    "tilesRight": "WWG",
+    "tilesLeft": "WWW",
+    "tilesDown": "WWG",
+    "shouldBeRotated": false
+  },
+  {
+    "tileName": "groundBorderRightTop.png",
+    "tilesUp": "WWG",
+    "tilesRight": "GWW",
+    "tilesLeft": "WWW",
+    "tilesDown": "WWW",
+    "shouldBeRotated": false
+  },
+  {
+    "tileName": "groundGRightBot.png",
+    "tilesUp": "WWG",
+    "tilesRight": "GGG",
+    "tilesLeft": "WWG",
+    "tilesDown": "GGG",
+    "shouldBeRotated": false
+  },
+  {
+    "tileName": "groundGTopLeft.png",
+    "tilesUp": "GGG",
+    "tilesRight": "GWW",
+    "tilesLeft": "GGG",
+    "tilesDown": "GWW",
+    "shouldBeRotated": false
+  },
+  {
+    "tileName": "groundGTopRight.png",
+    "tilesUp": "GGG",
+    "tilesRight": "GGG",
+    "tilesLeft": "GWW",
+    "tilesDown": "WWG",
+    "shouldBeRotated": false
+  },
+  {
+    "tileName": "groundSideBot.png",
+    "tilesUp": "WWW",
+    "tilesRight": "WWG",
+    "tilesLeft": "WWG",
+    "tilesDown": "GGG",
+    "tilesDownNot": ["groundSideTop.png"],
+    "shouldBeRotated": false
+  },
+  {
+    "tileName": "groundSideLeft.png",
+    "tilesUp": "GWW",
+    "tilesRight": "WWW",
+    "tilesLeft": "GGG",
+    "tilesDown": "GWW",
+    "tilesLeftNot": ["groundSideRight.png"],
+    "shouldBeRotated": false
+  },
+  {
+    "tileName": "groundSideRight.png",
+    "tilesUp": "WWG",
+    "tilesRight": "GGG",
+    "tilesLeft": "WWW",
+    "tilesDown": "WWG",
+    "tilesRightNot": ["groundSideLeft"],
+    "shouldBeRotated": false
+  },
+  {
+    "tileName": "groundSideTop.png",
+    "tilesUp": "GGG",
+    "tilesRight": "GWW",
+    "tilesLeft": "GWW",
+    "tilesDown": "WWW",
+    "tilesTopNot": ["groundSideBot.png"],
+    "shouldBeRotated": false
+  }
+]

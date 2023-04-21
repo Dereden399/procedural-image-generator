@@ -1,0 +1,14 @@
+.section-background {
+  -fx-background-color: rgb(226, 226, 226);
+  -fx-background-radius: 10;
+}
+
+.tile-element-background {
+  -fx-background-color: rgb(226, 226, 226);
+  -fx-background-radius: 10;
+}
+
+.tile-element-background-selected {
+  -fx-background-color: rgb(150, 150, 150);
+  -fx-background-radius: 10;
+}

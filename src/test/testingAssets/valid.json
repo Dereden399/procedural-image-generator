@@ -1,0 +1,30 @@
+[
+  {
+    "tileName": "111.png",
+    "tilesUp": "AAA",
+    "tilesDown": "BBB",
+    "tilesRight": "CCC",
+    "tilesLeft": "DDD"
+  },
+  {
+    "tileName": "222.png",
+    "tilesUp": "ABA",
+    "tilesDown": "BAB",
+    "tilesRight": "CBC",
+    "tilesLeft": "DAD",
+    "tags": ["tag1", "tag2"],
+    "maxOnImage": 5,
+    "weight": 2,
+    "shouldBeRotated": false
+  },
+  {
+    "tileName": "333.png",
+    "tilesUp": "CCC",
+    "tilesDown": "AAA",
+    "tilesRight": "BAB",
+    "tilesLeft": "DCD",
+    "maxOnImage": 0,
+    "shouldBeRotated": true
+  }
+  
+]

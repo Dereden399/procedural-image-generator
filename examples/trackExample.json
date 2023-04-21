@@ -1,0 +1,16 @@
+[
+  {
+    "tileName": "track.png",
+    "tilesUp": "AAA",
+    "tilesRight": "ABA",
+    "tilesDown": "ABA",
+    "tilesLeft": "ABA"
+  },
+  {
+    "tileName": "emptyTrack.png",
+    "tilesUp": "AAA",
+    "tilesRight": "AAA",
+    "tilesDown": "AAA",
+    "tilesLeft": "AAA"
+  }
+]

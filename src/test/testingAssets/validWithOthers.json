@@ -1,0 +1,13 @@
+[
+  {
+    "tileName": "222.png",
+    "tilesUp": "AAA",
+    "tilesDown": "BAA",
+    "tilesRight": "AAA",
+    "tilesLeft": "AAB",
+    "someInfo": 123,
+    "field": [
+      "aaa", "bbb"
+    ]
+  }
+]

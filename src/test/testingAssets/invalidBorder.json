@@ -1,0 +1,9 @@
+[
+  {
+    "tileName": "111",
+    "tilesUp": "AAAAAAA",
+    "tilesDown": "BBB",
+    "tilesRight": "CCC",
+    "tilesLeft": "DDD"
+  }
+]

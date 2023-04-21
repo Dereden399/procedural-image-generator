@@ -1,0 +1,106 @@
+[
+  {
+    "tileName": "ground.png",
+    "tilesUp": "AAA",
+    "tilesRight": "AAA",
+    "tilesDown": "AAA",
+    "tilesLeft": "AAA",
+    "tags": ["ground"]
+  },
+  {
+    "tileName": "bridge.png",
+    "tilesUp": "ABA",
+    "tilesRight": "ACA",
+    "tilesDown": "ABA",
+    "tilesLeft": "ACA",
+    "tags": ["bridge"],
+    "weight": 1,
+    "tilesUpNot": ["bridge.png"],
+    "tilesDownNot": ["bridge.png"]
+  },
+  {
+    "tileName": "river.png",
+    "tilesUp": "ABA",
+    "tilesRight": "AAA",
+    "tilesDown": "ABA",
+    "tilesLeft": "AAA",
+    "tilesRightNot": ["river.png"],
+    "tilesLeftNot": ["river.png"]
+  },
+  {
+    "tileName": "riverturn.png",
+    "tilesUp": "ABA",
+    "tilesRight": "ABA",
+    "tilesDown": "AAA",
+    "tilesLeft": "AAA",
+    "tilesRightNot": ["riverturn.png@3"],
+    "tilesUpNot": ["riverturn.png@1"]
+  },
+  {
+    "tileName": "road.png",
+    "tilesUp": "ACA",
+    "tilesRight": "AAA",
+    "tilesDown": "ACA",
+    "tilesLeft": "AAA",
+    "tilesRightNot": ["road.png"],
+    "tilesLeftNot": ["road.png"]
+  },
+  {
+    "tileName": "roadturn.png",
+    "tilesUp": "ACA",
+    "tilesRight": "ACA",
+    "tilesDown": "AAA",
+    "tilesLeft": "AAA",
+    "tilesRightNot": ["roadturn.png@3"],
+    "tilesUpNot": ["roadturn.png@1"]
+  },
+  {
+    "tileName": "t.png",
+    "tilesUp": "AAA",
+    "tilesRight": "ACA",
+    "tilesDown": "ACA",
+    "tilesLeft": "ACA",
+    "tilesUpNot": ["t.png"],
+    "tilesRightNot": ["t.png", "roadturn.png@2"],
+    "tilesDownNot": ["t.png", "roadturn.png@3", "roadturn.png@0"],
+    "tilesLeftNot": ["t.png", "roadturn.png@1"]
+  },
+  {
+    "tileName": "tower.png",
+    "tilesUp": "ADA",
+    "tilesRight": "ADA",
+    "tilesDown": "AAA",
+    "tilesLeft": "AAA",
+    "tilesUpNot": ["tower.png"],
+    "tilesRightNot": ["tower.png"],
+    "tilesLeftNot": ["tower.png"],
+    "tilesDownNot": ["tower.png"]
+  },
+  {
+    "tileName": "wall.png",
+    "tilesUp": "ADA",
+    "tilesRight": "AAA",
+    "tilesDown": "ADA",
+    "tilesLeft": "AAA",
+    "tilesRightNot": ["wall.png", "tower.png"],
+    "tilesLeftNot": ["wall.png", "tower.png"]
+  },
+  {
+    "tileName": "wallriver.png",
+    "tilesUp": "ADA",
+    "tilesRight": "ABA",
+    "tilesDown": "ADA",
+    "tilesLeft": "ABA",
+    "tilesUpNot": ["wallriver.png"],
+    "tilesDownNot": ["wallriver.png"]
+  },
+  {
+    "tileName": "wallroad.png",
+    "tilesUp": "ADA",
+    "tilesRight": "ACA",
+    "tilesDown": "ADA",
+    "tilesLeft": "ACA",
+    "tilesUpNot": ["wallroad.png"],
+    "tilesDownNot": ["wallroad.png"]
+  }
+]
